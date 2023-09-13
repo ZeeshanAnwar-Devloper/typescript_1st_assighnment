@@ -1,0 +1,2 @@
+# typescript_1st_assighnment
+PeanVerse
